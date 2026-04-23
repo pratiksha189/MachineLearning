@@ -1,0 +1,1 @@
+1. bagging : https://colab.research.google.com/drive/1BJCDA4irXWLH4KFT_MdwqTWRS7d6NNmi?usp=sharing
